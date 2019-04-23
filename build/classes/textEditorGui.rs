@@ -1,0 +1,13 @@
+texteditor.textEditorGui$myHighlighter
+texteditor.textEditorGui$1
+texteditor.textEditorGui$IconExample
+texteditor.textEditorGui$2
+texteditor.textEditorGui$3
+texteditor.textEditorGui$4
+texteditor.textEditorGui$5
+texteditor.textEditorGui$6
+texteditor.textEditorGui$10
+texteditor.textEditorGui$7
+texteditor.textEditorGui$8
+texteditor.textEditorGui$9
+texteditor.textEditorGui
